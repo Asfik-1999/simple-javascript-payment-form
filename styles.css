@@ -1,0 +1,24 @@
+#table {
+    background-color: #525252;
+    padding: 20px;
+    color: white;
+  }
+  
+  #dataTable {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    color: white;
+  }
+  
+  th, td {
+    border: 1px solid #DDDDDD;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #494949;
+    padding-top: 12px; 
+    padding-bottom: 12px; 
+    text-align: left;
+  }
